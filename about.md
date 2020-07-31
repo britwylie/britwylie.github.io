@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site is a work in progress
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a rising senior in Mechanical Engineering at Caltech.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bwylie<code>@</code>caltech.edu](mailto:bwylie@caltech.edu)
