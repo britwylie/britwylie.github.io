@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Lounge Mural PCB Art"
 date: "2020-07-31"
 ---

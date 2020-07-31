@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Blacker Lion - Table Refinishing"
 date: "2020-07-31"
 ---
