@@ -1,11 +1,28 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Brit Wylie # your name (or website title) here
+logo: "/images/bwylie.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <center> Engineering student in search of adventure
   <br><br>
-  Second description 
+  California Institute of Technology
+  <br>
+  <i>Mechanical Engineering Major with Aerospace Minor '21</i>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </center>
+  <a href="https://www.linkedin.com/in/brittany-w-a43030115/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+footer-links:
+  dribbble:
+  email: bwylie@caltech.edu
+  facebook:
+  flickr:
+  github: britwylie
+  instagram:
+  linkedin: https://www.linkedin.com/in/brittany-w-a43030115/
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: brit_why
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus:
