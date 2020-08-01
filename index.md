@@ -17,7 +17,7 @@ This summer I am developing algorithms to analyze SBLI establishment in hyperson
 In my spare time, I enjoy planning fun new projects, honing a new skill like forging or knifemaking, reading sci-fi, and hiking or canyoneering in Southern California.
 
 ### Contact me
-[Download Resume](/pdf/CV_current_7.31.20)
+[Download Resume](/pdf/CV_current_7.31.20.pdf)
 
 [bwylie<code>@</code>caltech.edu](mailto:bwylie@caltech.edu)
 
