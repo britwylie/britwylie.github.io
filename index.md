@@ -1,6 +1,7 @@
 ## Welcome!
 
 ---
+Note: main website is [here](http://britwylie.com) **Temporarily Down**. View the project portfolio available below instead.
 
 This website has a collection of miscellaneous academic projects and works-in-progress both as a portfolio and a personal journal to keep track of things that I have done and want to do.
 
@@ -17,11 +18,11 @@ This summer I am developing algorithms to analyze SBLI establishment in hyperson
 In my spare time, I enjoy planning fun new projects, honing a new skill like forging or knifemaking, reading sci-fi, and hiking or canyoneering in Southern California.
 
 ### Contact me
-[Download Resume](/pdf/CV_current_7.31.20.pdf)
+[Download Resume](/pdf/CV_website_081420.pdf)
 
 [bwylie<code>@</code>caltech.edu](mailto:bwylie@caltech.edu)
 
-[Project portfolio](http://britwylie.com)
+[Project portfolio](/pdf/portfolio_081420.pdf)
 
 <!--### Category Name 1 
 
