@@ -1,7 +1,7 @@
 ## Welcome!
 
 ---
-Note: main website is [here](http://britwylie.com) **Temporarily Down**. View the project portfolio available below instead.
+Note: main website is [here](http://britwylie.com). This is a one-page summary.
 
 This website has a collection of miscellaneous academic projects and works-in-progress both as a portfolio and a personal journal to keep track of things that I have done and want to do.
 
