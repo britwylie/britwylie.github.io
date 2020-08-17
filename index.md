@@ -17,6 +17,11 @@ This summer I am developing algorithms to analyze SBLI establishment in hyperson
 
 In my spare time, I enjoy planning fun new projects, honing a new skill like forging or knifemaking, reading sci-fi, and hiking or canyoneering in Southern California.
 
+### Skills
+- **Machining**: CNC mill, lathe, metal mill, waterjet, bandsaw, drill press
+- **CAD/CAM**: Solidworks, HSMWorks
+- **Software and Analysis**: ANSYS FEA and Fluent, static and transient simulations, MATLAB, STK, Python, OpenCV, Java, C++
+
 ### Contact me
 [Download Resume](/pdf/CV_website_081420.pdf)
 
